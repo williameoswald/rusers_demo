@@ -1,1 +1,1 @@
-# rusers_demo
+# R Users Git and Github demo
