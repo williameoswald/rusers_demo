@@ -2,6 +2,8 @@
 *William Oswald
 *An amazing analysis
 
+di "Hello World"
+
 *Run assembly do file
 do "demo_cleaning.do"
 
